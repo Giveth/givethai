@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'giveth', // Usually your GitHub org/user name.
   projectName: 'givethai', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
