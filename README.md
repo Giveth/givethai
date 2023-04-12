@@ -1,5 +1,9 @@
 # Giveth.AI
 
+_Build status:_
+[![Test deployment](https://github.com/Giveth/givethai/actions/workflows/test-deploy.yml/badge.svg)](https://github.com/Giveth/givethai/actions/workflows/test-deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/Giveth/givethai/actions/workflows/deploy.yml/badge.svg)](https://github.com/Giveth/givethai/actions/workflows/deploy.yml)
+
 ---
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
